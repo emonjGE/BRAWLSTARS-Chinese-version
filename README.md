@@ -1,37 +1,31 @@
-menu:
-  vim: VIM
-  vim1: VIM1
-  vim2: VIM2
-  vim3: VIM3/3L
-  vim4: VIM4
-  edge: Edge
-  hardware: 硬件资料
-  firmware: 固件下载
+    menu:
+    vim: VIM
+    vim1: VIM1
+    vim2: VIM2
+    vim3: VIM3/3L
+    vim4: VIM4
+    edge: Edge
+    hardware: 硬件资料
+    firmware: 固件下载
 
-index:
-  get_started: 开始使用
-  read_docs: 阅读文档
+    index:
+    get_started: 开始使用
+    read_docs: 阅读文档
 
-page:
-  contents: 目录
-  back_to_top: 回到顶部
-  improve: 改进本文
-  prev: 上一页
-  next: 下一页
-  last_updated: 上次更新：%s
+    page:
+    contents: 目录
+    back_to_top: 回到顶部
+    improve: 改进本文
+    prev: 上一页
+    next: 下一页
+    last_updated: 上次更新
 
-home_page:
-  intro_title1: 可编辑
-  intro_desc1: 这里的文档都可以可以编辑的，编辑后通过GitHub Pull Request提交代码，欢迎大家一起编辑完善文档。
-  intro_title2: 代码开源
-  intro_desc2: 文档网站的源码以及所有文档都是开源的，代码托管在Khadas GitHub。
-  intro_title3: 支持Markdown
-  intro_desc3: 所有的文档都是用Markdown语言编写。
-  intro_title4: 多国语言
-  intro_desc4: 目前支持简体中文和英文，以后会增加更多语言支持。
+    home_page:
+    
+  
 
-sidebar:
-  vim1:
+    sidebar:
+    vim1:
     quick_start: 快速开始
     overview: 概述
     vim1_interfaces: 接口描述
@@ -66,7 +60,7 @@ sidebar:
     troubleshooting: 故障排查
     capture_log: 抓取Log
 
-  vim2:
+    vim2:
     quick_start: 快速开始
     overview: 概述
     vim2_interfaces: 接口描述
@@ -104,7 +98,7 @@ sidebar:
     troubleshooting: 故障排查
     capture_log: 抓取Log
 
-  vim3:
+    vim3:
     quick_start: 快速开始
     overview: 概述
     vim3_interfaces: 接口描述
@@ -160,7 +154,7 @@ sidebar:
     troubleshooting: 故障排查
     capture_log: 抓取Log
 
-  vim4:
+    vim4:
     quick_start: 快速开始
     overview: 概述
     vim3_interfaces: 接口描述
@@ -217,7 +211,7 @@ sidebar:
     troubleshooting: 故障排查
     capture_log: 抓取Log
 
-  edge:
+    edge:
     quick_start: 快速开始
     overview: 概述
     edge_interfaces: Edge接口描述
@@ -253,14 +247,14 @@ sidebar:
     troubleshooting: 故障排查
     capture_log: 抓取Log
 
-  hardware:
+    hardware:
     hardware: 硬件资料
     vim1: VIM1
     vim2: VIM2
     vim3: VIM3
     vim4: VIM4
     edge: Edge
-  firmware:
+    firmware:
     firmware: 固件
     vim1: VIM1
     vim1_android: Android
@@ -281,7 +275,6 @@ sidebar:
     vim4: VIM4
     vim4_android: Android
     vim4_thirdparty: 第三方固件
-    edge: Edge
     edge_android: Android
     edge_ubuntu: Ubuntu
     edge_thirdparty: 第三方固件
